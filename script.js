@@ -134,7 +134,7 @@ let songs = [
 
         albumArtUrl: "https://tse4.mm.bing.net/th?id=OIP.TjS4z1jJTsl6K3-ADIXFywHaEK&pid=Api&P=0&h=220",
 
-        audioSrc: "audio/Ed Sheeran - Perfect.mp3",
+        audioSrc: "https://files.catbox.moe/smbtbi.mp3",
 
         videoBgSrc: "videos/perfect_bg.mp4", // Path video background khusus lagu ini
 
