@@ -181,7 +181,7 @@ let songs = [
     artist: "Neck Deep",
     album: "",
     albumArtUrl: "",
-    audioSrc: "audio/lonely_december.mp3",
+    audioSrc: "https://files.catbox.moe/bhb4ew.mp3",
     videoBgSrc: "videos/lonely_december.mp4",
     audioBgSrc: "audio/static_lonely_december.mp3",
     lyrics: [
@@ -336,7 +336,7 @@ let songs = [
     artist: "Dendi Nata",
     album: "",
     albumArtUrl: "",
-    audioSrc: "audio/abadi.mp3",
+    audioSrc: "https://files.catbox.moe/x6xlze.mp3",
     videoBgSrc: "videos/abadi.mp4",
     audioBgSrc: "audio/static_abadi.mp3",
     lyrics: [
