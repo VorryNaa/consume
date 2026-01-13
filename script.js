@@ -82,7 +82,7 @@ let songs = [
 
         audioSrc: "https://files.catbox.moe/gtvepn.m4a",
 
-        videoBgSrc: "https://files.catbox.moe/px0qnn.mp4", // Path video background khusus lagu ini
+        videoBgSrc: "https://files.catbox.moe/006jm4.mp4", // Path video background khusus lagu ini
 
         // Lirik dengan timestamp dalam detik
 
