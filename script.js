@@ -80,7 +80,7 @@ let songs = [
 
         albumArtUrl: "https://tse3.mm.bing.net/th?id=OIP.VwivM--7Xx_SmgsqXBLi8AAAAA&pid=Api&P=0&h=220",
 
-        audioSrc: "https://files.catbox.moe/gtvepn.m4a",
+        audioSrc: "https://files.catbox.moe/2bz695.mp3",
 
         videoBgSrc: "https://files.catbox.moe/006jm4.mp4", // Path video background khusus lagu ini
 
